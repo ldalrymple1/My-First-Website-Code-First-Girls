@@ -1,6 +1,5 @@
 body {
-  font-family: impact;
-  color: #247BA0
+  color: #247BA0;
 }
 h1 {
   font-family: impact;
@@ -15,7 +14,4 @@ h4 {
 p {
   font-family: georgia;
   color: black;
-}
-card {
-  text-{color}: red;
 }

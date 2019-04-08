@@ -1,4 +1,23 @@
 body {
-  background-color: #F3FFBD;
-  font-family: arial;
+  ;
+}
+
+h1 {
+  font-family: impact;
+  text-align: center;
+  font-size: 62px;
+  color: #247BA0;
+}
+h2 {
+  font-family: impact;
+  color: #FF1654;
+  font-size: 25px;
+}
+
+div.carousel {
+  width: 850px;
+  margin: 0 auto;
+}
+h4 {
+  font-family: Georgia;
 }

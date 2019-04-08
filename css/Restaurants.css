@@ -1,6 +1,7 @@
 body {
   color: #247BA0;
   padding: 5;
+  padding-top:80px;
 }
 
 h1 {
@@ -27,4 +28,11 @@ p {
 div.media{
   margin: 0 auto;
   color: green;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
 }

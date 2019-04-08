@@ -1,5 +1,6 @@
 body {
   ;
+  padding-top:80px;
 }
 
 h1 {
@@ -30,4 +31,11 @@ div.carousel {
 }
 h4 {
   font-family: Georgia;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
 }

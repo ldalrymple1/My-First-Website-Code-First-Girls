@@ -42,17 +42,33 @@
 
 
   <body>
+
     <h1>Welcome to Paris</h1>
         <p class="lead" style="text-align:center;">The capital of France is known for its beautiful architecture and culture.  Experience it here letting by us give you all the information you need to plan your next trip.</p>
 
         <div class="container">
-        <div id="Paris_map">
-            <img class="d-block w-100" src="./architecture-buildings-city-739407.jpg" alt="Map of Paris">
+          <img src="paris_map.jpg" alt="Workplace" usemap="#paris" alt="Map of Paris" width="750 px" height="600 px" class=paris_image>
+
+          <map name="paris">
+            <area shape="rect" coords="130,330,170,370" alt="Eiffel_tower_icon" href="Eiffel_Tower.html">
+            <area shape="rect" coords="160,210,200,250" alt="Arc_de_Triomphe" href="computer.htm">
+            <area shape="rect" coords="300,200,340,240" alt="Palais_garnier" href="computer.htm">
+            <area shape="rect" coords="360,60,400,100" alt="Sacre_Cour" href="computer.htm">
+            <area shape="rect" coords="340,100,380,140" alt="Moulin_Rougue" href="computer.htm">
+          </map>
         </div>
+            <!--For mapping: max top to bottom is 1723 and side to side is 2450.  Here it is set to
+            600 by 750 respectively.  1723/600 = 2.87 and 2450/750 = 3.27 so divide any coordinates
+            by this.
 
-          </div>
+            eiffel tower icon     519,1004     3.27, 2.87     158, 350
 
+            583,655 arc de triomphe    178, 228
+            1050,627 palais garnier    321, 218
+            1244,223 sacre cour        380, 78
+            1164,346 moulin rougue     356, 121
 
+          -->
 
 
 

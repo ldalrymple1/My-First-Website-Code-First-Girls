@@ -1,5 +1,4 @@
 body {
-  ;
   padding-top:80px;
 }
 
@@ -39,4 +38,16 @@ h4 {
   left: 0;
   width: 100%;
   z-index: 1
+}
+
+a.Eiffel_tower_icon {
+  position: static;
+  border: 10px solid #73AD21;
+  border-radius: 25px;
+}
+
+.paris_image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

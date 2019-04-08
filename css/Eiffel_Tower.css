@@ -21,7 +21,7 @@ h2 {
 }
 h2:hover {
 font-size: 5em;
-transition: 0.3s ease;
+transition: 0.1s ease;
 }
 
 div.carousel {

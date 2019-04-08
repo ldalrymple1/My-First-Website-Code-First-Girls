@@ -1,4 +1,33 @@
 body {
-  background-color: pink;
-  font-family: arial;
+  ;
+}
+
+h1 {
+  font-family: impact;
+  text-align: center;
+  font-size: 62px;
+  color: #247BA0;
+}
+
+h1:hover {
+font-size: 5em;
+transition: 0.3s ease;
+}
+
+h2 {
+  font-family: impact;
+  color: #FF1654;
+  font-size: 25px;
+}
+h2:hover {
+font-size: 5em;
+transition: 0.1s ease;
+}
+
+div.carousel {
+  width: 850px;
+  margin: 0 auto;
+}
+h4 {
+  font-family: Georgia;
 }

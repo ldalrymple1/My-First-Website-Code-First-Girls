@@ -1,6 +1,4 @@
 body {
-  color: #247BA0;
-  padding: 5;
   padding-top:80px;
 }
 
@@ -16,32 +14,14 @@ font-size: 5em;
 transition: 0.3s ease;
 }
 
-h4 {
-  text-align: center;
-  font-weight: bold;
+h2 {
+  font-family: impact;
+  color: #FF1654;
+  font-size: 25px;
 }
-h3 {
-  color: white;
-  font-family: georgia;
-}
-
-h4:hover {
-font-size: 2em;
-transition: 0.3s ease;
-}
-
-p {
-  color: black;
-}
-
-div.media{
-  margin: 0 auto;
-  color: #70C1B3;
-}
-
-div.media:hover {
-font-size: 2em;
-transition: 0.3s ease;
+h2:hover {
+font-size: 5em;
+transition: 0.1s ease;
 }
 
 .navbar {

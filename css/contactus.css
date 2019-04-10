@@ -33,7 +33,6 @@ transition: 0.1s ease;
 }
 
 div.contrast {
-  margin-top: 50;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -42,7 +41,14 @@ div.contrast {
   padding-top: 50px;
   background-color: #FF1654;
   width: 100%;
+  height: 10px;
 }
+
+.container_footer {
+  width: 100%;
+  height: 10px;
+}
+
 
 div.facebook {
   padding-right: 30px;

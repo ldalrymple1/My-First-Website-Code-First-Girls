@@ -65,12 +65,13 @@ div.totalform {
   padding-top: 60px;
 }
 
-button.btn, .btn-success {
+#Submit {
   background-color: #70C1B3;
   border: none;
   display: block;
   width: 100px;
   margin: 10px auto;
+  padding-top: 20px;
 }
 
 input.form-control {

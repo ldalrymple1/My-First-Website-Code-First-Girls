@@ -75,6 +75,10 @@ div.totalform {
   margin: 10px auto;
 }
 
+.bg-custom {
+  background-color: #FF1654;
+}
+
 input.form-control {
   font-style: italic;
 }

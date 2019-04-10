@@ -15,6 +15,10 @@ font-size: 5em;
 transition: 0.3s ease;
 }
 
+.bg-custom {
+  background-color: #FF1654;
+}
+
 h2 {
   font-family: impact;
   color: #FF1654;

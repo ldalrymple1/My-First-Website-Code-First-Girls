@@ -25,6 +25,10 @@ font-size: 5em;
 transition: 0.1s ease;
 }
 
+.bg-custom {
+  background-color: #FF1654;
+}
+
 h3 {
   font-family: impact;
   text-align: center;

@@ -25,6 +25,10 @@ font-size: 5em;
 transition: 0.1s ease;
 }
 
+.bg-custom {
+  background-color: #FF1654;
+}
+
 div.carousel {
   width: 600px;
   margin: 0 auto;

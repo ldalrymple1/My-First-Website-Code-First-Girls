@@ -19,10 +19,23 @@ h2 {
   color: #FF1654;
   font-size: 25px;
 }
+
 h2:hover {
 font-size: 5em;
 transition: 0.1s ease;
 }
+
+h3 {
+  font-family: impact;
+  text-align: center;
+  color: #FF1654;
+  font-size: 40px;
+}
+h3:hover {
+font-size: 3em;
+transition: 0.1s ease;
+}
+
 
 div.carousel {
   width: 850px;

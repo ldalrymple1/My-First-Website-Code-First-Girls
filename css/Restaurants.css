@@ -16,6 +16,10 @@ font-size: 5em;
 transition: 0.3s ease;
 }
 
+.bg-custom {
+  background-color: #FF1654;
+}
+
 h4 {
   text-align: center;
   font-weight: bold;

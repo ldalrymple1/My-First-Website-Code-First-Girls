@@ -44,3 +44,15 @@ div.contrast {
 div.facebook {
   padding-right: 30px;
 }
+
+div.form {
+    margin: auto;
+    border-radius: 20px;
+    background-color: #B2DBBF;
+    padding: 20px;
+    font-family: impact;
+    color: #247BA0;
+    font-size: 25px;
+    display: block;
+    margin-top: 0em;
+  }
